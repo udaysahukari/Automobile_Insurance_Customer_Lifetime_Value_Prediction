@@ -1,7 +1,7 @@
 # Automobile_Insurance_Customer_Lifetime_Value_Prediction
 Team Capstone Project for PGP-DSE at Great Learning Hyderabad.
 
-## Group Mmebers:
+## Group Members:
 1. Harish Chandanam
 2. Uday Sahukari
 3. Shahul 
