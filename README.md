@@ -17,4 +17,4 @@ My code with approach for Statistical Analysis and model building is in the abov
 If unable to view on GitHub, try [NBViewer](https://nbviewer.jupyter.org/github/Uday-Sahu/Automobile_Insurance_Customer_Lifetime_Value_Prediction/blob/master/Capstone_Project_CLTV_.ipynb).
 
 ## Report
-The final [report](Auto_Insurance_Analysis_G8_FINAL_Report.docx) and [presentation](Capstone PPT Final - Copy.pdf) from our group is also available.
+The final [report](Auto_Insurance_Analysis_G8_FINAL_Report.docx).
