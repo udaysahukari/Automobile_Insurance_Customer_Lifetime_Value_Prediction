@@ -9,7 +9,7 @@ Team Capstone Project for PGP-DSE at Great Learning Hyderabad.
 5. Ved Kumar
 
 ## Problem Statement
-This data is related to Regression Problem. Customer lifetime value (CLTV) is one of the most important metrics to measure at any growing company. If you want your business to acquire and retain highly valuable customers, then it's essential that your team learns what customer lifetime value is. Customer lifetime value is the metric that indicates the total revenue a business can reasonably expect from a single customer account. Businesses use this metric to identify significant customer segments that are the most valuable to the company.
+This data is related to Regression Problem where we try to predict the CLTV of each and every customer. Customer lifetime value (CLTV) is one of the most important metrics to measure at any growing company. If you want your business to acquire and retain highly valuable customers, then it's essential that your team learns what customer lifetime value is. Customer lifetime value is the metric that indicates the total revenue a business can reasonably expect from a single customer account. Businesses use this metric to identify significant customer segments that are the most valuable to the company.
 
 
 ## Code
